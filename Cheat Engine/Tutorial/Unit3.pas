@@ -58,7 +58,7 @@ resourcestring
           'Again there are several different ways to find the value. (like doing a decreased value by... scan), but I''ll only '+
           'explain the easiest. "Unknown initial value", and decreased value.'+#13#10+
           'Because you don''t know the value it is right now, a exact value wont do any good, so choose as scantype '+
-          '''Unknown initial value'', again, the value type is 4-bytes. (most windows apps use 4-bytes)'+
+          '''Unknown initial value'', again, the value type is 4-bytes. (most windows apps use 4-bytes) '+
           'click first scan and wait till it''s done.'+#13#10+
           ''+#13#10+
           'When it is done click ''hit me''. You''ll lose some of your health. (the amount you lost shows for a few seconds and '+
